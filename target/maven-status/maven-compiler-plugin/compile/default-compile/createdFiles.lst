@@ -1,0 +1,17 @@
+com\example\equipofutbol\services\PartidoService.class
+com\example\equipofutbol\controller\EquipoController.class
+com\example\equipofutbol\entities\Partido.class
+com\example\equipofutbol\repository\EquipoRepository.class
+com\example\equipofutbol\entities\Equipo.class
+com\example\equipofutbol\repository\PartidoRepository.class
+com\example\equipofutbol\services\ResultadoService.class
+com\example\equipofutbol\entities\Resultado.class
+com\example\equipofutbol\repository\ResultadoRepository.class
+com\example\equipofutbol\EquipofutbolApplication.class
+com\example\equipofutbol\controller\JugadorController.class
+com\example\equipofutbol\controller\PartidoController.class
+com\example\equipofutbol\controller\ResultadoController.class
+com\example\equipofutbol\repository\JugadorRepository.class
+com\example\equipofutbol\services\EquipoService.class
+com\example\equipofutbol\services\JugadorService.class
+com\example\equipofutbol\entities\Jugador.class
